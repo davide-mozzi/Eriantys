@@ -4,7 +4,7 @@
 ![Test](https://img.shields.io/badge/Test-JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![CodeAnalysis](https://img.shields.io/badge/Code%20Analysis-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
-An implementation of a tabletop game as the _Software Engineering_ final examination project at [Polytechnic University of Milan](https://www.polimi.it/).
+An implementation of the tabletop game [Eriantys](https://www.craniocreations.it/prodotto/eriantys) as the 2022 _Software Engineering_ final examination project at [Politecnico di Milano](https://www.polimi.it/).
 
 ## Development Team
 * **Tommaso Bonetti** ([@tommaso-bonetti](https://github.com/tommaso-bonetti))  
